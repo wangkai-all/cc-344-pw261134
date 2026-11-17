@@ -1,0 +1,7 @@
+# runtime artifacts (root .gitignore already ignores *.db, *.log, __pycache__)
+data/
+logs/
+run/
+__pycache__/
+*.state.json
+*.port
